@@ -2,8 +2,8 @@
 import random, math
 
 # initialize globals - pos and vel encode vertical info for paddles
-WIDTH = 600
-HEIGHT = 400
+WIDTH = 800
+HEIGHT = 600
 PAD_WIDTH = 8
 PAD_HEIGHT = 80
 BALL_RADIUS = 10
